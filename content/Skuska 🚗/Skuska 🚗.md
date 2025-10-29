@@ -1,11 +1,14 @@
 ---
-{"publish":true,"created":"2025-10-29T12:02:05.920+01:00","modified":"2025-10-29T12:05:03.214+01:00","cssclasses":""}
+{"publish":true,"created":"2025-10-29T12:02:05.920+01:00","modified":"2025-10-29T12:52:23.522+01:00","cssclasses":""}
 ---
 
 ---
 
-# About me
-Hii Im a student, artsy person, tech enthusiast, ppl lover and this is the start of my digital garden.
+
+welcome to my digital garden, the source of my dreams, thoughts, ideas, crafts, and soo on...
+...
+
+Im a student, artsy person, tech enthusiast, ppl lover and this is the start of my digital garden.
 
 # Test of pic
 ![[2 - Sources/image-178.png|Caption]]
