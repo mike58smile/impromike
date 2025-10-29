@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"About me","created":"2025-10-29T18:06:48.598+01:00","modified":"2025-10-29T22:08:16.107+01:00","cssclasses":""}
+{"publish":true,"title":"About me","created":"2025-10-29T18:06:48.598+01:00","modified":"2025-10-29T23:38:45.364+01:00","cssclasses":""}
 ---
 
 Hiiii there 👋
@@ -17,7 +17,11 @@ I currently work on these projects:
 > [!question] What is the purpose of this blog?
 > - Post here my dreams, thoughts, ideas, crafts, and soo on... 
 > ...for future me and future curious people :)
-## Embrace the friendship
-![[2 - Sources/image-184.png]]
+# This is kinda the depiction of me...
+![[2 - Sources/image-184.png|Me and Paul - such a nice guy i've met on my trip to Italy]]
+
+![[2 - Sources/image-186.png|Traveling with Amalia — I couldn’t imagine a better travel buddy]]
 
 # Sections
+
+[[School 🏫/School 🏫]]

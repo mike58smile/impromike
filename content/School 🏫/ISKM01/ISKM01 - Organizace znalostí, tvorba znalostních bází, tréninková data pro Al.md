@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-10-24T11:59:58.000+02:00","modified":"2025-10-29T19:26:16.899+01:00","cssclasses":""}
+{"publish":true,"created":"2025-10-24T11:59:58.000+02:00","modified":"2025-10-29T23:28:26.790+01:00","cssclasses":""}
 ---
 
-	---
+---
 # Prepis z Teams
 ## Úvod a Organizačné záležitosti
 Na začiatku hodiny prebehla diskusia o termíne odovzdania záverečnej práce. Po hlasovaní bol stanovený termín na **5. 12.**, s možnosťou individuálnej dohody na neskoršom termíne v skúškovom období.
