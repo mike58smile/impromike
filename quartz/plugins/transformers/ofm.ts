@@ -196,13 +196,51 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
           const blockRef = Boolean(rawHeader?.startsWith("#^")) ? "^" : ""
           const displayAnchor = anchor ? `#${blockRef}${anchor.trim().replace(/^#+/, "")}` : ""
           const displayAlias = rawAlias ?? rawHeader?.replace("#", "|") ?? ""
-          const embedDisplay = value.startsWith("!") ? "!" : ""
+          const isEmbed = value.startsWith("!")
 
-          if (rawFp?.match(externalLinkRegex)) {
-            return `${embedDisplay}[${displayAlias.replace(/^\|/, "")}](${rawFp})`
+          // Pre-render image embeds with captions at text stage to avoid MDAST splitting on HTML inside alias
+          if (isEmbed) {
+            const ext: string = path.extname(fp).toLowerCase()
+            if ([".png", ".jpg", ".jpeg", ".gif", ".bmp", ".svg", ".webp"].includes(ext)) {
+              const url = slugifyFilePath(fp as FilePath)
+              const aliasStr = rawAlias?.slice(1).trim() ?? ""
+              const match = wikilinkImageEmbedRegex.exec(aliasStr)
+              const captionText = match?.groups?.alt ?? ""
+              const width = match?.groups?.width ?? "auto"
+              const height = match?.groups?.height ?? "auto"
+
+              // Minimal markdown for captions: allow **bold**, *italic*, and <br>
+              let processedCaption = captionText
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/&lt;br\s*\/?&gt;/gi, "<br>")
+                .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
+                .replace(/\*([^*]+)\*/g, "<em>$1</em>")
+
+              const altText = processedCaption
+                .replace(/<[^>]*>/g, "")
+                .replace(/[\s\u00A0]+/g, " ")
+                .trim()
+
+              const sizeAttrs: string[] = []
+              if (width !== "auto") sizeAttrs.push(`width="${width}"`)
+              if (height !== "auto") sizeAttrs.push(`height="${height}"`)
+              const sizeAttrStr = sizeAttrs.length > 0 ? " " + sizeAttrs.join(" ") : ""
+
+              if (captionText && captionText.trim().length > 0) {
+                return `<figure class="image-with-caption"><img src="${url}" alt="${altText.replace(/"/g, "&quot;")}"${sizeAttrStr} loading="lazy" /><figcaption>${processedCaption}</figcaption></figure>`
+              } else {
+                return `<img src="${url}" alt=""${sizeAttrStr} loading="lazy" />`
+              }
+            }
           }
 
-          return `${embedDisplay}[[${fp}${displayAnchor}${displayAlias}]]`
+          if (rawFp?.match(externalLinkRegex)) {
+            return `${isEmbed ? "!" : ""}[${displayAlias.replace(/^\|/, "")} ](${rawFp})`
+          }
+
+          return `${isEmbed ? "!" : ""}[[${fp}${displayAnchor}${displayAlias}]]`
         })
       }
 
@@ -238,15 +276,31 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                     
                     // If we have caption text, render as HTML figure with figcaption
                     if (captionText && captionText.trim().length > 0) {
-                      const altText = captionText.replace(/<[^>]*>/g, "").replace(/\s+/g, " ").trim()
-                      const sizeAttrs = []
+                      // Minimal markdown processing for captions: **bold**, *italic*, and <br>
+                      let processedCaption = captionText
+                        // escape accidental closing tags in text
+                        .replace(/&/g, "&amp;")
+                        .replace(/</g, "&lt;")
+                        .replace(/>/g, "&gt;")
+                        // allow explicit <br> the user typed by un-escaping it back
+                        .replace(/&lt;br\s*\/?&gt;/gi, "<br>")
+                        // bold and italic
+                        .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
+                        .replace(/\*([^*]+)\*/g, "<em>$1</em>")
+
+                      const altText = processedCaption
+                        .replace(/<[^>]*>/g, "")
+                        .replace(/[\s\u00A0]+/g, " ")
+                        .trim()
+
+                      const sizeAttrs: string[] = []
                       if (width !== "auto") sizeAttrs.push(`width="${width}"`)
                       if (height !== "auto") sizeAttrs.push(`height="${height}"`)
                       const sizeAttrStr = sizeAttrs.length > 0 ? " " + sizeAttrs.join(" ") : ""
-                      
+
                       return {
                         type: "html",
-                        value: `<figure class="image-with-caption"><img src="${url}" alt="${altText.replace(/"/g, "&quot;")}"${sizeAttrStr} loading="lazy" /><figcaption>${captionText}</figcaption></figure>`,
+                        value: `<figure class="image-with-caption"><img src="${url}" alt="${altText.replace(/"/g, "&quot;")}"${sizeAttrStr} loading="lazy" /><figcaption>${processedCaption}</figcaption></figure>`,
                       }
                     }
                     
