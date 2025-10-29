@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"About me","created":"2025-10-29T18:06:48.598+01:00","modified":"2025-10-29T18:08:05.611+01:00","cssclasses":""}
+{"publish":true,"title":"About me","created":"2025-10-29T18:06:48.598+01:00","modified":"2025-10-29T20:07:04.033+01:00","cssclasses":""}
 ---
 
 Hiiii there 👋
@@ -13,5 +13,13 @@ I also privately teach Math ♾️, Physics 🧲, Ukulele 🎸, but I'm opened t
 I currently work on these projects:
 - **[LinkMory](https://www.linkedin.com/company/linkmory)** - Universal business card solutions for networking event organizers to enhance the networking experience for participants
 - [**PianoArt**](https://pianoart.onrender.com/) - Software that transforms piano performance into real-time visual art, creating immersive audiovisual experiences that respond dynamically to every note and melody
+
+# Test
+![[2 - Sources/image-179.png|Test obrazku|308x245]]
+
+![[2 - Sources/image-179.png|Test bold **obrazku**|308x245]]
+
+![[2 - Sources/image-179.png|Test next line<br>LINE]]
+
 
 # Sections
