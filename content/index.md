@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-29T12:01:19.355+01:00","modified":"2025-10-29T12:58:00.105+01:00","cssclasses":"","title":"About me"}
+{"publish":true,"title":"About me","created":"2025-10-29T12:01:19.355+01:00","modified":"2025-10-29T17:35:56.387+01:00","cssclasses":""}
 ---
 
 Hiiii there 👋
@@ -8,10 +8,10 @@ my name is Michal Miškolci, I'm a master's student of [Cybernetics, Control and
 
 I have a huuuge passion in creating 🎨, improvising ✨, crafting 🛠️, art making 🖼️ and learning 🧠. I play piano 🎹 and ukulele 🎸, love dancing 💃, painting 🎨, drawing ✏️ ...
 
-I also privately teach Math ♾️, Physics 🧲, Ukulele 🎸, and I'm opened to teach everything I have ever learned 🍎.
+I also privately teach Math ♾️, Physics 🧲, Ukulele 🎸, but I'm opened to teach everything I have ever learned 🍎.
 
 I currently work on these projects:
-- **[LinkMory](https://www.linkedin.com/company/linkmory)** - Universal business card solutions for networking event organisers to enhance the networking experience for participants
+- **[LinkMory](https://www.linkedin.com/company/linkmory)** - Universal business card solutions for networking event organizers to enhance the networking experience for participants
 - [**PianoArt**](https://pianoart.onrender.com/) - Software that transforms piano performance into real-time visual art, creating immersive audiovisual experiences that respond dynamically to every note and melody
 
 # Blog
