@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-29T13:50:57.813+01:00","modified":"2025-10-29T14:24:03.229+01:00","cssclasses":""}
+{"publish":true,"created":"2025-10-29T13:50:57.813+01:00","modified":"2025-10-29T14:25:21.797+01:00","cssclasses":""}
 ---
 
 ---
@@ -14,3 +14,5 @@ Skuskaaa jep
 ![[6 Neetických Manipulačních Triků, Které By Měly Být Nezákonné! - Robert Cialdini.m4a]]
 
 ![[2 - Sources/WHAT IS GOING ON HERE_! BREAKFAST!.mp3]]
+
+![[delll.m4a]]
