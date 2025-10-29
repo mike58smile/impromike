@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-24T11:59:58.000+02:00","modified":"2025-10-29T19:22:54.618+01:00","cssclasses":""}
+{"publish":true,"created":"2025-10-24T11:59:58.000+02:00","modified":"2025-10-29T19:25:26.716+01:00","cssclasses":""}
 ---
 
 	---
@@ -199,7 +199,7 @@ Som ==**kapucin**== = co dam do knihovny
 - zaklad info vedy
 - snaha vymysliet organizaciu
 
-![[2 - Sources/image-166.png|Medzinarodne desetinne triedeni Existuje sposob ako tie knihy usporiadat do sochtlikov]]
+![[2 - Sources/image-166.png|Medzinarodne desetinne triedeni<br>Existuje sposob ako tie knihy usporiadat do sochtlikov]]
 
 
 
