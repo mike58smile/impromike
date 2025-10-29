@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-10-24T11:59:58.000+02:00","modified":"2025-10-29T18:22:49.517+01:00","cssclasses":""}
+{"publish":true,"created":"2025-10-24T11:59:58.000+02:00","modified":"2025-10-29T19:22:54.618+01:00","cssclasses":""}
 ---
 
----
+	---
 # Prepis z Teams
 ## Úvod a Organizačné záležitosti
 Na začiatku hodiny prebehla diskusia o termíne odovzdania záverečnej práce. Po hlasovaní bol stanovený termín na **5. 12.**, s možnosťou individuálnej dohody na neskoršom termíne v skúškovom období.
@@ -199,7 +199,7 @@ Som ==**kapucin**== = co dam do knihovny
 - zaklad info vedy
 - snaha vymysliet organizaciu
 
-![[2 - Sources/image-166.png|Medzinarodne desetinne triedeni<br>Existuje sposob ako tie knihy usporiadat do sochtlikov]]
+![[2 - Sources/image-166.png|Medzinarodne desetinne triedeni Existuje sposob ako tie knihy usporiadat do sochtlikov]]
 
 
 
