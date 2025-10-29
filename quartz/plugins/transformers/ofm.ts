@@ -232,9 +232,24 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                   const url = slugifyFilePath(fp as FilePath)
                   if ([".png", ".jpg", ".jpeg", ".gif", ".bmp", ".svg", ".webp"].includes(ext)) {
                     const match = wikilinkImageEmbedRegex.exec(alias ?? "")
-                    const alt = match?.groups?.alt ?? ""
+                    const captionText = match?.groups?.alt ?? ""
                     const width = match?.groups?.width ?? "auto"
                     const height = match?.groups?.height ?? "auto"
+                    
+                    // If we have caption text, render as HTML figure with figcaption
+                    if (captionText && captionText.trim().length > 0) {
+                      const altText = captionText.replace(/<[^>]*>/g, "").replace(/\s+/g, " ").trim()
+                      const sizeAttrs = []
+                      if (width !== "auto") sizeAttrs.push(`width="${width}"`)
+                      if (height !== "auto") sizeAttrs.push(`height="${height}"`)
+                      const sizeAttrStr = sizeAttrs.length > 0 ? " " + sizeAttrs.join(" ") : ""
+                      
+                      return {
+                        type: "html",
+                        value: `<figure class="image-with-caption"><img src="${url}" alt="${altText.replace(/"/g, "&quot;")}"${sizeAttrStr} loading="lazy" /><figcaption>${captionText}</figcaption></figure>`,
+                      }
+                    }
+                    
                     return {
                       type: "image",
                       url,
@@ -242,7 +257,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                         hProperties: {
                           width,
                           height,
-                          alt,
+                          alt: captionText,
                         },
                       },
                     }
