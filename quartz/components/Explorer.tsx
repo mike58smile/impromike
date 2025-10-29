@@ -11,6 +11,8 @@ import { concatenateResources } from "../util/resources"
 
 type OrderEntries = "sort" | "filter" | "map"
 
+type FolderNoteAugmentedNode = FileTrieNode & { folderNoteSlug?: string }
+
 export interface Options {
   title?: string
   folderDefaultState: "collapsed" | "open"
@@ -27,7 +29,21 @@ const defaultOptions: Options = {
   folderClickBehavior: "link",
   useSavedState: true,
   mapFn: (node) => {
-    return node
+    if (!node.isFolder) {
+      return
+    }
+
+    const folderNode = node as FolderNoteAugmentedNode
+    const matchingIndex = folderNode.children.findIndex(
+      (child) => !child.isFolder && child.slugSegment === folderNode.slugSegment,
+    )
+
+    if (matchingIndex === -1) {
+      return
+    }
+
+    const [folderNote] = folderNode.children.splice(matchingIndex, 1)
+    folderNode.folderNoteSlug = folderNote.slug
   },
   sortFn: (a, b) => {
     // Sort order: folders first, then files. Sort folders and files alphabeticall
@@ -62,6 +78,7 @@ export default ((userOpts?: Partial<Options>) => {
 
   const Explorer: QuartzComponent = ({ cfg, displayClass }: QuartzComponentProps) => {
     const id = `explorer-${numExplorers++}`
+    const label = opts.title ?? i18n(cfg.locale).components.explorer.title
 
     return (
       <div
@@ -81,6 +98,7 @@ export default ((userOpts?: Partial<Options>) => {
           class="explorer-toggle mobile-explorer hide-until-loaded"
           data-mobile={true}
           aria-controls={id}
+          aria-label={label}
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -97,29 +115,7 @@ export default ((userOpts?: Partial<Options>) => {
             <line x1="4" x2="20" y1="18" y2="18" />
           </svg>
         </button>
-        <button
-          type="button"
-          class="title-button explorer-toggle desktop-explorer"
-          data-mobile={false}
-          aria-expanded={true}
-        >
-          <h2>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h2>
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            width="14"
-            height="14"
-            viewBox="5 8 14 8"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            class="fold"
-          >
-            <polyline points="6 9 12 15 18 9"></polyline>
-          </svg>
-        </button>
-        <div id={id} class="explorer-content" aria-expanded={false} role="group">
+        <div id={id} class="explorer-content" aria-expanded={true} role="group" aria-label={label}>
           <OverflowList class="explorer-ul" />
         </div>
         <template id="template-file">

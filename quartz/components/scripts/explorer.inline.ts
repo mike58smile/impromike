@@ -2,6 +2,8 @@ import { FileTrieNode } from "../../util/fileTrie"
 import { FullSlug, resolveRelative, simplifySlug } from "../../util/path"
 import { ContentDetails } from "../../plugins/emitters/contentIndex"
 
+type FolderNoteAugmentedNode = FileTrieNode & { folderNoteSlug?: FullSlug }
+
 type MaybeHTMLElement = HTMLElement | undefined
 
 interface ParsedOptions {
@@ -108,17 +110,23 @@ function createFolderNode(
   const folderOuter = li.querySelector(".folder-outer") as HTMLElement
   const ul = folderOuter.querySelector("ul") as HTMLUListElement
 
+  const folderNode = node as FolderNoteAugmentedNode
   const folderPath = node.slug
+  const folderNoteSlug = folderNode.folderNoteSlug
+  const folderLink = folderNoteSlug ?? folderPath
   folderContainer.dataset.folderpath = folderPath
 
   if (opts.folderClickBehavior === "link") {
     // Replace button with link for link behavior
     const button = titleContainer.querySelector(".folder-button") as HTMLElement
     const a = document.createElement("a")
-    a.href = resolveRelative(currentSlug, folderPath)
-    a.dataset.for = folderPath
+    a.href = resolveRelative(currentSlug, folderLink)
+    a.dataset.for = folderLink
     a.className = "folder-title"
     a.textContent = node.displayName
+    if (currentSlug === folderLink) {
+      a.classList.add("active")
+    }
     button.replaceWith(a)
   } else {
     const span = titleContainer.querySelector(".folder-title") as HTMLElement

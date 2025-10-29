@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-29T12:01:19.355+01:00","modified":"2025-10-29T12:58:00.105+01:00","cssclasses":""}
+{"publish":true,"created":"2025-10-29T12:01:19.355+01:00","modified":"2025-10-29T12:58:00.105+01:00","cssclasses":"","title":"About me"}
 ---
 
 Hiiii there 👋

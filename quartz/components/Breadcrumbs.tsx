@@ -58,14 +58,31 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
       return null
     }
 
-    const crumbs: CrumbData[] = pathNodes.map((node, idx) => {
-      const crumb = formatCrumb(node.displayName, fileData.slug!, simplifySlug(node.slug))
+  const crumbNodes = pathNodes.reduce<(typeof pathNodes)[number][]>((acc, node, idx, arr) => {
+      const next = arr[idx + 1]
+      if (next && node.isFolder && !next.isFolder && node.slugSegment === next.slugSegment) {
+        return acc
+      }
+
+      acc.push(node)
+      return acc
+    }, [])
+
+    const crumbs: CrumbData[] = crumbNodes.map((node, idx) => {
+      const folderNoteSlug = node.isFolder
+        ? node.children.find(
+            (child) => !child.isFolder && child.slugSegment === node.slugSegment,
+          )?.slug
+        : undefined
+
+      const targetSlug = folderNoteSlug ?? node.slug
+      const crumb = formatCrumb(node.displayName, fileData.slug!, simplifySlug(targetSlug))
+
       if (idx === 0) {
         crumb.displayName = options.rootName
       }
 
-      // For last node (current page), set empty path
-      if (idx === pathNodes.length - 1) {
+      if (idx === crumbNodes.length - 1) {
         crumb.path = ""
       }
 

@@ -60,17 +60,9 @@
     display: none;
   }
 
-  button.desktop-explorer {
-    display: flex;
-  }
-
   @media all and ($mobile) {
     button.mobile-explorer {
       display: flex;
-    }
-
-    button.desktop-explorer {
-      display: none;
     }
   }
 
@@ -90,8 +82,7 @@
   }
 }
 
-button.mobile-explorer,
-button.desktop-explorer {
+button.mobile-explorer {
   background-color: transparent;
   border: none;
   text-align: left;
@@ -100,12 +91,6 @@ button.desktop-explorer {
   color: var(--dark);
   display: flex;
   align-items: center;
-
-  & h2 {
-    font-size: 1rem;
-    display: inline-block;
-    margin: 0;
-  }
 }
 
 .explorer-content {
