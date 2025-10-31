@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"About me","created":"2025-10-29T18:06:48.598+01:00","modified":"2025-10-29T23:38:45.364+01:00","cssclasses":""}
+{"publish":true,"title":"About me","created":"2025-10-29T18:06:48.598+01:00","modified":"2025-10-31T22:11:07.680+01:00","cssclasses":""}
 ---
 
 Hiiii there 👋
@@ -20,7 +20,8 @@ I currently work on these projects:
 # This is kinda the depiction of me...
 ![[2 - Sources/image-184.png|Me and Paul - such a nice guy i've met on my trip to Italy]]
 
-![[2 - Sources/image-186.png|Traveling with Amalia — I couldn’t imagine a better travel buddy]]
+![[2 - Sources/image-186.png|Traveling with Amália — I couldn’t imagine a better travel buddy]]
+
 
 # Sections
 
