@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-11T18:47:50.072+01:00","modified":"2026-01-19T23:59:19.575+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-11T18:47:50.072+01:00","modified":"2026-01-20T00:01:48.010+01:00","cssclasses":""}
 ---
 
 ---
@@ -11,7 +11,7 @@
 
 
 # Reflexia
-Predmet prezentuje prístupy a aktivity akademických kníižníc v zahraničí. Je dobré nevymeškať ani jednu prezentáciu, účasť je zaznamenávaná. K splneniu potrebná seminárna práca s pomerne veľkým rozsahom - je treba si vyhradiť dostatočne veľa času. Nasledujúci feedback bol súčasťou predmetu:
+Predmet prezentuje prístupy a aktivity akademických kníižníc v zahraničí. Je dobré nevymeškať ani jednu prezentáciu, účasť je zaznamenávaná. K splneniu potrebná seminárna práca s pomerne veľkým rozsahom - je treba si vyhradiť dostatočne veľa času. Nasledujúci feedback bol súčasťou náhrady mojej vymeškanej hodiny:
 
 **A. Content Reflection**
 1. Which one or two presentations inspired you the most, and why?
