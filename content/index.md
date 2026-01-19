@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"About me","created":"2026-01-11T18:47:50.103+01:00","modified":"2026-01-19T22:22:53.331+01:00","cssclasses":""}
+{"publish":true,"title":"About me","created":"2026-01-11T18:47:50.103+01:00","modified":"2026-01-19T22:29:55.673+01:00","cssclasses":""}
 ---
 
 Hiiii there 👋
@@ -14,8 +14,6 @@ I currently work on these projects:
 - **[LinkMory](https://www.linkedin.com/company/linkmory)** - Universal business card solutions for networking event organizers to enhance the networking experience for participants
 - [**PianoArt**](https://pianoart.onrender.com/) - Software that transforms piano performance into real-time visual art, creating immersive audiovisual experiences that respond dynamically to every note and melody
 
-You can read reflection to my courses here - 
-
 > [!question] What is the purpose of this blog?
 > - Post here my dreams, thoughts, ideas, crafts, and soo on... 
 > ...for future me and future curious people :)
@@ -27,3 +25,4 @@ You can read reflection to my courses here -
 
 # Sections
 [[School 🏫/School 🏫]]
+[[School 🏫/Reflexie k predmetom]]
