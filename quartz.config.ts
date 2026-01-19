@@ -55,6 +55,7 @@ const config: QuartzConfig = {
   },
   plugins: {
     transformers: [
+      Plugin.RemoveTodoist(),
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],
