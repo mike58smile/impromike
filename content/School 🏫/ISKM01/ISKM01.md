@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-11T18:47:49.603+01:00","modified":"2026-01-19T23:14:26.545+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-11T18:47:49.603+01:00","modified":"2026-01-20T00:01:00.014+01:00","cssclasses":""}
 ---
 
 ---
@@ -33,7 +33,7 @@ Počas prednášok sa človek cíti ako participant vo výskume p. docenta Čern
 Pre účely praktickej ukážky efektu "filter-bubble" som vytvoril [aplikáciu](https://feed-simulator.onrender.com/). 
 
 > [!summary] Benefity projektu
-Zlepšil som si schopnosti menežovania práce v skupine (7 ľudí), kolaboratívnej práce na prezentácii a učebnom texte, naučil som sa efektívnejšie robiť rešerš (nachádzať nové zdroje, čítať a analyzovať zdroje), o kúsok som zlepšil svoje prezentačné skills and so on...
+> Zlepšil som si schopnosti menežovania práce v skupine (7 ľudí), kolaboratívnej práce na prezentácii a učebnom texte, naučil som sa efektívnejšie robiť rešerš (nachádzať nové zdroje, čítať a analyzovať zdroje), o kúsok som zlepšil svoje prezentačné skills and so on...
 
 ![[2 - Sources/image-40.png|Použitie Mentimetra bolo nepostradateľné - podobné prieskumy boli veľmi bežné]]
 
