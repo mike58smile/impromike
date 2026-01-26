@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-26T19:47:57.506+01:00","modified":"2026-01-26T21:05:52.295+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-26T19:47:57.506+01:00","modified":"2026-01-26T21:22:11.779+01:00","cssclasses":""}
 ---
 
 Cieľ: (a) aplikovať teoretické znalosti v interakcii s terénnou odbornou praxou a kriticky zhodnotiť vybrané oblasti knihovníctva, (b) vnímavo prežiť a reflektovať verejný priestor ako priestor kultúry a kreativity
@@ -10,7 +10,7 @@ c) Aké vízie má knihovníctvo a ako sa ich darí napĺňať
 d) Ktoré knižničné procesy považujú študujúci za kľúčové v aktuálnej perspektíve a prečo
 
 ## Blok A
-#### 1. Ako vnímate priestorové usporiadanie knižnice?
+### 1. Ako vnímate priestorové usporiadanie knižnice?
 	- Z pohľadu funkčnosti, informačných a knižničných služieb, well-beingu, komunitnej funkcie knižnice
 	- Vplyv na prostredie pre štúdium a prácu
 
@@ -23,35 +23,40 @@ V hlavnej uličke sú po strane umiestnené aktuálne čísla ekonomických a te
 Študovne s PC sú dostatočne veľké, dobre osvetlené, rastlinka vnútri, no nemám čo vytknúť.
 ![[2 - Sources/image-488.png]]
 
-![[2 - Sources/image-486.png|Samotné delenie literatúry je logické a zreteľné.]]
+Samotné delenie literatúry je logické a zreteľné.
+![[2 - Sources/image-486.png]]
 
-![[2 - Sources/image-489.png|Špunty do uší sú super, síce je v knižnici je aj tak pomerne ticho, avšak študent si ich môže zobrať a použiť inde - veľmi oceňujem :)]]
+Špunty do uší sú super, síce je v knižnici je aj tak pomerne ticho, avšak študent si ich môže zobrať a použiť inde - veľmi oceňujem :)
+![[2 - Sources/image-489.png]]
 
+Je super, že tu je aj kuchynský kútik. Viem si predstaviť, že študenti môžu pri učení niečo papať, či minimálne piť, takže veľmi vhodné.
+![[2 - Sources/image-487.png]]
 
+No a tento úžasný kútik s beanbagmi je skvelý. Kvôli veľkej obľúbenosti by mohol byť trochu väčší, no výborne podporuje pocit "domácnosti" v knižnici
+![[2 - Sources/image-490.png]]
 
-![[2 - Sources/image-487.png|Je super, že tu je aj kuchynský kútik. Viem si predstaviť, že študenti môžu pri učení niečo papať, či minimálne piť, takže veľmi vhodné. ]]
-
-![[2 - Sources/image-490.png|No a tento úžasný kútik s beanbagmi je skvelý. Kvôli veľkej obľúbenosti by mohol byť trochu väčší, no výborne podporuje pocit "domácnosti" v knižnici]]
-
-![[2 - Sources/image-491.png|Hneď oproti relax zóne, sú samozrejme časopisy, za nimi je populárna literatúra, čo je fajn ku oddychu.]]
+Hneď oproti relax zóne, sú samozrejme časopisy, za nimi je populárna literatúra, čo je fajn ku oddychu.
+![[2 - Sources/image-491.png]]
 
 Celkovo priestory tejto knižnice napĺňajú informačné a knižné potreby študentov, a to jasným a logickým usporiadaním regálov a značiek a informačným kioskom pre efektivitu a dostupnosť. Priestory sú príjemné na prácu a štúdium, dostatok PC, priestoru, zmenil by som len biele nemocničné svetlo na teplé a pridal trošku viac zelene. Nejaká mini fontána a bonsai by boli tiež pekným spestrením :)
 
 Z hľadiska komunitného rozmeru knižnice je veľkou výhodou relax zóna s beanbagmi, avšak aj tam je to skôr zóna na osobný oddych, keďže v knižnici sú študenti v tichosti - nedá sa tam moc rozprávať. Určite by pomohli nejaké študijné bunky, zvukovo izolované priestory, kde by sa mohli študenti rozprávať pri štúdiu alebo oddychu. Podľa mňa by sa mohli knižnice viac inšpirovať čím ďalej, tým viac populárnymi coworkami, ktoré často prekvitajú zeleňou a sú ďaleko viac komunitnejšie.
-==![[2 - Sources/image-492.png|Zvukovo izolovaná bunka - inšpirácia s coworku Clubco]]
+![[2 - Sources/image-492.png|Zvukovo izolovaná bunka - inšpirácia z coworku Clubco]]
 
 ![[2 - Sources/image-493.png|Coworking Clubco]]
 
-#### 2. Čo by podľa vás knižnica mohla urobiť pre zvýšenie návštevnosti (pre určitú cieľovú skupinu)? 
+### 2. Čo by podľa vás knižnica mohla urobiť pre zvýšenie návštevnosti (pre určitú cieľovú skupinu)? 
 	- Skúste navrhnúť 2-3 konkrétne kroky s ohľadom na funkciu, priestory a návštevníkov knižnice.
 
 1. Pre študentov, akad. pracovníkov, čo radi pracujú medzi ľuďmi - spraviť v knižnici priestor na "cowork" - v podstate priestor na spoločnú diskusiu, whiteboard. Asi by to vyzeralo ako zasadačka, ale ak by mala knižnica dosť miesta - možno by to šlo.
-2. Myslím, že v Holandsku majú v knižnici vyhradený priestor na knowledge 
+2. Mohli by mať vyhradenú časť knižnice na "knowledge hub" - priestor na vyrábanie, prototypovanie, ktorý môže byť použitý aj na rôzne workshopy.
 
-#### 3. Aká je rola knihovníctva v danej knižnici a akým spôsobom pomáha používateľom s ich potrebami? (otázka je relevantná vzhľadom na veľkosť a typ knižnice)
-
-#### 3. Mala by podľa vášho názoru knižnica vo svojom poriadku obmedzovať prístup niektorých skupín ľudí (napr. malých detí) k počítačom a internetu? 
+### 3. Aká je rola knihovníctva v danej knižnici a akým spôsobom pomáha používateľom s ich potrebami? (otázka je relevantná vzhľadom na veľkosť a typ knižnice)
+Povedal by som, že poskytnúť študentom akademické zdroje spolu s relevantnými časopismi, obsahujúcimi trendy v daných oblastiach, za účelom vzdelávania, či pomoci s písaním prác. Knižnica tiež ponúka priestor na nerušené štúdium. Hlavné potreby študentov sú jasné - nájsť literatúru k predmetu, pre ich záujem, či na rešerš pri písaní práce. Taktiež veľa študentov obľubuje študovať, či pracovať v knižnici - tieto potreby knižnica spĺňa.
+### 3. Mala by podľa vášho názoru knižnica vo svojom poriadku obmedzovať prístup niektorých skupín ľudí (napr. malých detí) k počítačom a internetu? 
 	- Prečo áno, prečo nie? Konkretizujte odbornými argumentmi s oporou v odborných zdrojoch.
+
+
 #### 4. Aké technológie a systémy knižnica využíva v rámci inkluzívneho dizajnu na uľahčenie prístupu k informáciám, katalogizácii dokumentov a ďalších služieb?
 #### 4. Ktorá služba navštívenej knižnice vás zaujala alebo prekvapila – a prečo? o Myslíte, že sa v nej odráža niektorý z pilierov Koncepcie rozvoja knižníc? Ktorý a ako? Argumentujte s oporou v odbornom zdroji.
 
