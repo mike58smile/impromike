@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-26T19:47:57.506+01:00","modified":"2026-01-26T21:37:12.360+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-26T19:47:57.506+01:00","modified":"2026-01-26T21:48:54.806+01:00","cssclasses":""}
 ---
 
 Cieľ: (a) aplikovať teoretické znalosti v interakcii s terénnou odbornou praxou a kriticky zhodnotiť vybrané oblasti knihovníctva, (b) vnímavo prežiť a reflektovať verejný priestor ako priestor kultúry a kreativity
@@ -58,8 +58,15 @@ Povedal by som, že poskytnúť študentom akademické zdroje spolu s relevantn�
 
  Vzhľadom na to, že knižnica, ktorú opisujem je akademická a deti sa v tejto knižnici nevyskytujú - nevidím dôvod obmedzovať prístup. Ale tak či tak, verejná knižnica ako taká by nemala vo svojom poriadku a priori obmedzovať prístup k počítačom a internetu na základe veku. Takéto obmedzenie by bolo v rozpore so základnými etickými princípmi knihovníctva, konkrétne s princípom **rovného prístupu k informáciám a intelektuálnej slobody**.[^1] [^2]
 #### 5. Aké technológie a systémy knižnica využíva v rámci inkluzívneho dizajnu na uľahčenie prístupu k informáciám, katalogizácii dokumentov a ďalších služieb?
+Informačný kiosk s fulltext vyhľadávaním - uľahčenie prístupu k informáciam. O ďalších službách však neviem.
+#### 6. Ktorá služba navštívenej knižnice vás zaujala alebo prekvapila – a prečo?
+	- Myslíte, že sa v nej odráža niektorý z pilierov Koncepcie rozvoja knižníc? Ktorý a ako? Argumentujte s oporou v odbornom zdroji.
 
-#### 6. Ktorá služba navštívenej knižnice vás zaujala alebo prekvapila – a prečo? o Myslíte, že sa v nej odráža niektorý z pilierov Koncepcie rozvoja knižníc? Ktorý a ako? Argumentujte s oporou v odbornom zdroji.
+Zaujala ma prítomnosť **relaxačnej zóny s beanbagmi (sedacími vakmi) a kuchynského kútika**. Tieto prvky ma prekvapili, pretože posúvajú vnímanie knižnice z tradičného, prísne akademického prostredia smerom k neformálnemu a "domáckemu" priestoru, ktorý dbá na _well-being_ študentov.
+
+Táto služba (poskytnutie priestoru na oddych a občerstvenie) priamo odráža **Pilier 1: Knihovny jako pilíře občanské společnosti a přirozená centra komunit** z _Koncepce rozvoje knihoven v České republice na léta 2021–2027_.[^3]
+
+Konkrétne ide o strategický cieľ premeniť knižnice na otvorené vzdelávacie, kultúrne a **komunitné centrá**. Koncepcia zdôrazňuje, že knižnica má byť tzv. "tretím miestom" (po domove a práci/škole), kde ľudia radi trávia čas.
 
 ## Blok B
 #### 1. Akým výzvam a príležitostiam čelia knižnice v digitálnom veku, akým spôsobom sa snažia tieto výzvy riešiť?
@@ -80,3 +87,5 @@ International Federation of Library Associations and Institutions. (2022). _IFL
 
 [^2]: **ALA Library Bill of Rights:**  
 American Library Association. (2019). _Library Bill of Rights_. [https://www.ala.org/advocacy/intfreedom/librarybill](https://www.ala.org/advocacy/intfreedom/librarybill)
+
+[^3]: Ministerstvo kultury ČR. (2020). _Koncepce rozvoje knihoven v České republice na léta 2021–2027 s výhledem do roku 2030_. [Koncepce rozvoje knihoven v České republice na léta 2021–27 | Čtenář](https://casopisctenar.cz/2021/01/14/koncepce-rozvoje-knihoven-v-ceske-republice-na-leta-2021-27/)
