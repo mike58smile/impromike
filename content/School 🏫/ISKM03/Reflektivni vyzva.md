@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-26T19:47:57.506+01:00","modified":"2026-01-26T23:03:34.400+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-26T19:47:57.506+01:00","modified":"2026-01-26T23:11:39.837+01:00","cssclasses":""}
 ---
 
 **Cieľ**: 
@@ -81,7 +81,7 @@ Veľká výzva je **konkurencia vyhľadávačov a informačné preťaženie** - 
 Ďalšou výzvou je digitálna priepasť - Nie všetci používatelia majú rovnaké digitálne zručnosti alebo prístup k technológiám (seniori, sociálne slabšie skupiny). Knižnice preto organizujú rôzne workshopy, no hlavne - svoju fyzickú štruktúru zatiaľ radikálne nemenia a tak môžu slúžiť ľuďom bezohľadu na ich digitálne zručnosti. 
 
 #### 2. Aké kroky by knižnice mohli/mali podniknúť na ceste za udržateľnejším rozvojom svojho pôsobenia?
-Knižnice by mali udržateľnosť vnímať komplexne, nielen ako ekologickú otázku, ale v zmysle **troch pilierov udržateľnosti** (ekologický, ekonomický, sociálny)
+Knižnice by mali udržateľnosť vnímať komplexne, nielen ako ekologickú otázku, ale v zmysle **troch pilierov udržateľnosti** (ekologický, ekonomický, sociálny) [^5]
 1. **Podpora cirkulárnej ekonomiky a "Knižnica vecí" (Library of Things):**  
     Knižnice môžu rozšíriť svoje služby o požičiavanie predmetov dennej potreby (náradie, hudobné nástroje, doskové hry). Tým priamo znižujú potrebu konzumu a nákupu vecí, ktoré ľudia použijú len občas.
     
@@ -91,7 +91,7 @@ Knižnice by mali udržateľnosť vnímať komplexne, nielen ako ekologickú ot�
 3. **Vzdelávacia a informačná rola (Climate Literacy):**  
     Knižnice by mali aktívne kurátorovať zdroje o klimatickej zmene a udržateľnosti, čím bojujú proti dezinformáciám v tejto oblasti. Môžu organizovať workshopy o upcyclingu, opravovaní vecí (Repair Café) alebo udržateľnom životnom štýle, čím sa stávajú centrom komunitnej odolnosti.
 #### 3. Čo si myslíte o koncepte "virtuálnej knižnice"? Ako by taká knižnica mohla fungovať a aké by mala výhody a nevýhody?
-Virtuálna knižnica je definovaná ako knižničné prostredie, ktoré poskytuje prístup k zbierke digitalizovaných alebo elektronických materiálov, čím používateľom umožňuje vyhľadávať a využívať informácie na diaľku prostredníctvom internetu, a to popri tradičných fyzických formátoch. [^7]
+Virtuálna knižnica je definovaná ako knižničné prostredie, ktoré poskytuje prístup k zbierke digitalizovaných alebo elektronických materiálov, čím používateľom umožňuje vyhľadávať a využívať informácie na diaľku prostredníctvom internetu, a to popri tradičných fyzických formátoch. [^7] [^6]
 
 Dnes je to už bežná vec, a každá akademická knižnica má svoj digitálny repozitár. Výhodou je 24/7 prístup, dostupnosť a možnosti vyhľadávania. Nevidím v tom nevýhody, pokým bude knižnica fungovať aj v offline forme. Bolo by priaznivé, keby digitálne materiály poskytovali aj v .epub formáte.
 #### 4. Myslíte si, že knižnice by mohli hrať väčšiu rolu vo vzdelávaní a rozvoji zručností? Aké inovatívne programy alebo služby by do nich mohli byť implementované a prečo?
