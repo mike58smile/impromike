@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-26T19:47:57.506+01:00","modified":"2026-01-26T21:22:11.779+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-26T19:47:57.506+01:00","modified":"2026-01-26T21:37:12.360+01:00","cssclasses":""}
 ---
 
 Cieľ: (a) aplikovať teoretické znalosti v interakcii s terénnou odbornou praxou a kriticky zhodnotiť vybrané oblasti knihovníctva, (b) vnímavo prežiť a reflektovať verejný priestor ako priestor kultúry a kreativity
@@ -10,7 +10,7 @@ c) Aké vízie má knihovníctvo a ako sa ich darí napĺňať
 d) Ktoré knižničné procesy považujú študujúci za kľúčové v aktuálnej perspektíve a prečo
 
 ## Blok A
-### 1. Ako vnímate priestorové usporiadanie knižnice?
+#### 1. Ako vnímate priestorové usporiadanie knižnice?
 	- Z pohľadu funkčnosti, informačných a knižničných služieb, well-beingu, komunitnej funkcie knižnice
 	- Vplyv na prostredie pre štúdium a prácu
 
@@ -45,20 +45,21 @@ Z hľadiska komunitného rozmeru knižnice je veľkou výhodou relax zóna s bea
 
 ![[2 - Sources/image-493.png|Coworking Clubco]]
 
-### 2. Čo by podľa vás knižnica mohla urobiť pre zvýšenie návštevnosti (pre určitú cieľovú skupinu)? 
+#### 2. Čo by podľa vás knižnica mohla urobiť pre zvýšenie návštevnosti (pre určitú cieľovú skupinu)? 
 	- Skúste navrhnúť 2-3 konkrétne kroky s ohľadom na funkciu, priestory a návštevníkov knižnice.
 
 1. Pre študentov, akad. pracovníkov, čo radi pracujú medzi ľuďmi - spraviť v knižnici priestor na "cowork" - v podstate priestor na spoločnú diskusiu, whiteboard. Asi by to vyzeralo ako zasadačka, ale ak by mala knižnica dosť miesta - možno by to šlo.
 2. Mohli by mať vyhradenú časť knižnice na "knowledge hub" - priestor na vyrábanie, prototypovanie, ktorý môže byť použitý aj na rôzne workshopy.
 
-### 3. Aká je rola knihovníctva v danej knižnici a akým spôsobom pomáha používateľom s ich potrebami? (otázka je relevantná vzhľadom na veľkosť a typ knižnice)
+#### 3. Aká je rola knihovníctva v danej knižnici a akým spôsobom pomáha používateľom s ich potrebami? (otázka je relevantná vzhľadom na veľkosť a typ knižnice)
 Povedal by som, že poskytnúť študentom akademické zdroje spolu s relevantnými časopismi, obsahujúcimi trendy v daných oblastiach, za účelom vzdelávania, či pomoci s písaním prác. Knižnica tiež ponúka priestor na nerušené štúdium. Hlavné potreby študentov sú jasné - nájsť literatúru k predmetu, pre ich záujem, či na rešerš pri písaní práce. Taktiež veľa študentov obľubuje študovať, či pracovať v knižnici - tieto potreby knižnica spĺňa.
-### 3. Mala by podľa vášho názoru knižnica vo svojom poriadku obmedzovať prístup niektorých skupín ľudí (napr. malých detí) k počítačom a internetu? 
+#### 4. Mala by podľa vášho názoru knižnica vo svojom poriadku obmedzovať prístup niektorých skupín ľudí (napr. malých detí) k počítačom a internetu? 
 	- Prečo áno, prečo nie? Konkretizujte odbornými argumentmi s oporou v odborných zdrojoch.
 
+ Vzhľadom na to, že knižnica, ktorú opisujem je akademická a deti sa v tejto knižnici nevyskytujú - nevidím dôvod obmedzovať prístup. Ale tak či tak, verejná knižnica ako taká by nemala vo svojom poriadku a priori obmedzovať prístup k počítačom a internetu na základe veku. Takéto obmedzenie by bolo v rozpore so základnými etickými princípmi knihovníctva, konkrétne s princípom **rovného prístupu k informáciám a intelektuálnej slobody**.[^1] [^2]
+#### 5. Aké technológie a systémy knižnica využíva v rámci inkluzívneho dizajnu na uľahčenie prístupu k informáciám, katalogizácii dokumentov a ďalších služieb?
 
-#### 4. Aké technológie a systémy knižnica využíva v rámci inkluzívneho dizajnu na uľahčenie prístupu k informáciám, katalogizácii dokumentov a ďalších služieb?
-#### 4. Ktorá služba navštívenej knižnice vás zaujala alebo prekvapila – a prečo? o Myslíte, že sa v nej odráža niektorý z pilierov Koncepcie rozvoja knižníc? Ktorý a ako? Argumentujte s oporou v odbornom zdroji.
+#### 6. Ktorá služba navštívenej knižnice vás zaujala alebo prekvapila – a prečo? o Myslíte, že sa v nej odráža niektorý z pilierov Koncepcie rozvoja knižníc? Ktorý a ako? Argumentujte s oporou v odbornom zdroji.
 
 ## Blok B
 #### 1. Akým výzvam a príležitostiam čelia knižnice v digitálnom veku, akým spôsobom sa snažia tieto výzvy riešiť?
@@ -68,3 +69,14 @@ Povedal by som, že poskytnúť študentom akademické zdroje spolu s relevantn�
 #### 3. Čo si myslíte o koncepte "virtuálnej knižnice"? Ako by taká knižnica mohla fungovať a aké by mala výhody a nevýhody?
 
 #### 4. Myslíte si, že knižnice by mohli hrať väčšiu rolu vo vzdelávaní a rozvoji zručností? Aké inovatívne programy alebo služby by do nich mohli byť implementované a prečo?
+
+## Zdroje
+
+
+
+
+[^1]: **IFLA/UNESCO Manifest:**  
+International Federation of Library Associations and Institutions. (2022). _IFLA-UNESCO Public Library Manifesto 2022_. [https://repository.ifla.org/handle/20.500.14598/2006](https://repository.ifla.org/handle/20.500.14598/2006)
+
+[^2]: **ALA Library Bill of Rights:**  
+American Library Association. (2019). _Library Bill of Rights_. [https://www.ala.org/advocacy/intfreedom/librarybill](https://www.ala.org/advocacy/intfreedom/librarybill)
