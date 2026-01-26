@@ -1,13 +1,16 @@
 ---
-{"publish":true,"created":"2026-01-26T19:47:57.506+01:00","modified":"2026-01-26T21:48:54.806+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-26T19:47:57.506+01:00","modified":"2026-01-26T23:03:34.400+01:00","cssclasses":""}
 ---
 
-Cieľ: (a) aplikovať teoretické znalosti v interakcii s terénnou odbornou praxou a kriticky zhodnotiť vybrané oblasti knihovníctva, (b) vnímavo prežiť a reflektovať verejný priestor ako priestor kultúry a kreativity
-Výzva je zameraná na odbornú (kritickú) reflexiu fenoménov a problémov súčasného knihovníctva.
-a) Aké sú trendy knihovníctva v zahraničí a ako sa zrkadlia do tuzemskej praxe
-b) Aké kritické otázky knihovníctvo rieši v zahraničnej i tuzemskej perspektíve
-c) Aké vízie má knihovníctvo a ako sa ich darí napĺňať
-d) Ktoré knižničné procesy považujú študujúci za kľúčové v aktuálnej perspektíve a prečo
+**Cieľ**: 
+1. aplikovať teoretické znalosti v interakcii s terénnou odbornou praxou a kriticky zhodnotiť vybrané oblasti knihovníctva
+2. vnímavo prežiť a reflektovať verejný priestor ako priestor kultúry a kreativity.
+
+**Výzva je zameraná na odbornú (kritickú) reflexiu fenoménov a problémov súčasného knihovníctva.**
+1. Aké sú trendy knihovníctva v zahraničí a ako sa zrkadlia do tuzemskej praxe
+2. Aké kritické otázky knihovníctvo rieši v zahraničnej i tuzemskej perspektíve
+3. Aké vízie má knihovníctvo a ako sa ich darí napĺňať
+4. Ktoré knižničné procesy považujú študujúci za kľúčové v aktuálnej perspektíve a prečo
 
 ## Blok A
 #### 1. Ako vnímate priestorové usporiadanie knižnice?
@@ -32,7 +35,7 @@ Samotné delenie literatúry je logické a zreteľné.
 Je super, že tu je aj kuchynský kútik. Viem si predstaviť, že študenti môžu pri učení niečo papať, či minimálne piť, takže veľmi vhodné.
 ![[2 - Sources/image-487.png]]
 
-No a tento úžasný kútik s beanbagmi je skvelý. Kvôli veľkej obľúbenosti by mohol byť trochu väčší, no výborne podporuje pocit "domácnosti" v knižnici
+No a tento úžasný kútik s beanbagmi je skvelý. Kvôli veľkej obľúbenosti by mohol byť trochu väčší, no výborne podporuje pocit "domácnosti" v knižnici.
 ![[2 - Sources/image-490.png]]
 
 Hneď oproti relax zóne, sú samozrejme časopisy, za nimi je populárna literatúra, čo je fajn ku oddychu.
@@ -70,22 +73,44 @@ Konkrétne ide o strategický cieľ premeniť knižnice na otvorené vzdelávaci
 
 ## Blok B
 #### 1. Akým výzvam a príležitostiam čelia knižnice v digitálnom veku, akým spôsobom sa snažia tieto výzvy riešiť?
+V dnešnej dobe určite rozvoj AI, študenti používajú AI na rešerše, vyhľadávanie zdrojov, na vzdelávanie - knižnice organizujú rôzne workshopy na AI gramotnosť, poskytujú študentom materiály, frameworky, ako napr. návod na robenie AI rešerší v Holandskej akademickej knižnici.[^4]
+![[2 - Sources/image-494.png|Ukážka pomocného checklistu na vyhodnotenie AI rešerše v Holandskej knižnici]]
+
+Veľká výzva je **konkurencia vyhľadávačov a informačné preťaženie** - používatelia často uprednostňujú Google a AI pre rýchlosť, no narážajú na problém s overovaním dôveryhodnosti zdrojov (fake news, dezinformácie). Knižnice toto riešia väčším záberom na informačné vzdelávanie (učia ľudí kriticky hodnotiť zdroje) a zatraktívnením priestorov knižnice - relax zóny, makerspaces, komunitné priestory, čím lákajú ľudí späť do fyzickej budovy, aj keď informácie majú v mobile.
+
+Ďalšou výzvou je digitálna priepasť - Nie všetci používatelia majú rovnaké digitálne zručnosti alebo prístup k technológiám (seniori, sociálne slabšie skupiny). Knižnice preto organizujú rôzne workshopy, no hlavne - svoju fyzickú štruktúru zatiaľ radikálne nemenia a tak môžu slúžiť ľuďom bezohľadu na ich digitálne zručnosti. 
 
 #### 2. Aké kroky by knižnice mohli/mali podniknúť na ceste za udržateľnejším rozvojom svojho pôsobenia?
-
+Knižnice by mali udržateľnosť vnímať komplexne, nielen ako ekologickú otázku, ale v zmysle **troch pilierov udržateľnosti** (ekologický, ekonomický, sociálny)
+1. **Podpora cirkulárnej ekonomiky a "Knižnica vecí" (Library of Things):**  
+    Knižnice môžu rozšíriť svoje služby o požičiavanie predmetov dennej potreby (náradie, hudobné nástroje, doskové hry). Tým priamo znižujú potrebu konzumu a nákupu vecí, ktoré ľudia použijú len občas.
+    
+2. **Ekologizácia vlastnej prevádzky (Green Library):**  
+    Implementácia štandardov "Zelenej knižnice" podľa IFLA. To zahŕňa energeticky úsporné opatrenia (LED osvetlenie, inteligentné riadenie tepla), digitalizáciu administratívy (bezpapierová kancelária) a zodpovedné vyraďovanie fondu (namiesto skládky ponúknuť knihy v burzách alebo na kreatívnu recykláciu).
+    
+3. **Vzdelávacia a informačná rola (Climate Literacy):**  
+    Knižnice by mali aktívne kurátorovať zdroje o klimatickej zmene a udržateľnosti, čím bojujú proti dezinformáciám v tejto oblasti. Môžu organizovať workshopy o upcyclingu, opravovaní vecí (Repair Café) alebo udržateľnom životnom štýle, čím sa stávajú centrom komunitnej odolnosti.
 #### 3. Čo si myslíte o koncepte "virtuálnej knižnice"? Ako by taká knižnica mohla fungovať a aké by mala výhody a nevýhody?
+Virtuálna knižnica je definovaná ako knižničné prostredie, ktoré poskytuje prístup k zbierke digitalizovaných alebo elektronických materiálov, čím používateľom umožňuje vyhľadávať a využívať informácie na diaľku prostredníctvom internetu, a to popri tradičných fyzických formátoch. [^7]
 
+Dnes je to už bežná vec, a každá akademická knižnica má svoj digitálny repozitár. Výhodou je 24/7 prístup, dostupnosť a možnosti vyhľadávania. Nevidím v tom nevýhody, pokým bude knižnica fungovať aj v offline forme. Bolo by priaznivé, keby digitálne materiály poskytovali aj v .epub formáte.
 #### 4. Myslíte si, že knižnice by mohli hrať väčšiu rolu vo vzdelávaní a rozvoji zručností? Aké inovatívne programy alebo služby by do nich mohli byť implementované a prečo?
+Určite, či už ide o rozvoj digitálnej, informačnej, AI gramotnosti, alebo rozvoja akéhokoľvek soft skill.
 
-## Zdroje
+Taktiež implementovať **Makerspace (Fablab)**
+    - Vyhradené priestory vybavené 3D tlačiarňami, laserovými rezačkami, šijacími strojmi či súpravami na programovanie (Arduino, Raspberry Pi).
+    - Podporujú **STEAM vzdelávanie** (Science, Technology, Engineering, Arts, Math). Zmena z pasívnych konzumentov obsahu na tvorcov. Rozvíja technické zručnosti a kreativitu - kľúčové pre trh práce 21. storočia.
 
+[^1]: **IFLA/UNESCO Manifest:** International Federation of Library Associations and Institutions. (2022). _IFLA-UNESCO Public Library Manifesto 2022_. [https://repository.ifla.org/handle/20.500.14598/2006](https://repository.ifla.org/handle/20.500.14598/2006)
 
-
-
-[^1]: **IFLA/UNESCO Manifest:**  
-International Federation of Library Associations and Institutions. (2022). _IFLA-UNESCO Public Library Manifesto 2022_. [https://repository.ifla.org/handle/20.500.14598/2006](https://repository.ifla.org/handle/20.500.14598/2006)
-
-[^2]: **ALA Library Bill of Rights:**  
-American Library Association. (2019). _Library Bill of Rights_. [https://www.ala.org/advocacy/intfreedom/librarybill](https://www.ala.org/advocacy/intfreedom/librarybill)
+[^2]: **ALA Library Bill of Rights:** American Library Association. (2019). _Library Bill of Rights_. [https://www.ala.org/advocacy/intfreedom/librarybill](https://www.ala.org/advocacy/intfreedom/librarybill)
 
 [^3]: Ministerstvo kultury ČR. (2020). _Koncepce rozvoje knihoven v České republice na léta 2021–2027 s výhledem do roku 2030_. [Koncepce rozvoje knihoven v České republice na léta 2021–27 | Čtenář](https://casopisctenar.cz/2021/01/14/koncepce-rozvoje-knihoven-v-ceske-republice-na-leta-2021-27/)
+
+[^4]: van der Meer, H. (2025, November 27). AI literacy for academic purposes - ISKM09 lekcia.
+
+[^5]: International Federation of Library Associations and Institutions. (n.d.). *Environment, Sustainability and Libraries Section*. IFLA. https://www.ifla.org/units/environment-sustainability-and-libraries/
+
+[^6]: Elsevier. (n.d.). *Virtual library*. ScienceDirect. [https://www.sciencedirect.com/topics/computer-science/virtual-library](https://www.sciencedirect.com/topics/computer-science/virtual-library)
+
+[^7]: Alexander, J. O. (2003). Library applications. In H. Bidgoli (Ed.), *Encyclopedia of information systems* (pp. 55–76). Elsevier. [https://doi.org/10.1016/B0-12-227240-4/00104-0](https://doi.org/10.1016/B0-12-227240-4/00104-0)
