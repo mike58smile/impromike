@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-26T19:47:57.506+01:00","modified":"2026-01-26T20:56:35.250+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-26T19:47:57.506+01:00","modified":"2026-01-26T21:05:52.295+01:00","cssclasses":""}
 ---
 
 Cieľ: (a) aplikovať teoretické znalosti v interakcii s terénnou odbornou praxou a kriticky zhodnotiť vybrané oblasti knihovníctva, (b) vnímavo prežiť a reflektovať verejný priestor ako priestor kultúry a kreativity
@@ -44,6 +44,9 @@ Z hľadiska komunitného rozmeru knižnice je veľkou výhodou relax zóna s bea
 
 #### 2. Čo by podľa vás knižnica mohla urobiť pre zvýšenie návštevnosti (pre určitú cieľovú skupinu)? 
 	- Skúste navrhnúť 2-3 konkrétne kroky s ohľadom na funkciu, priestory a návštevníkov knižnice.
+
+1. Pre študentov, akad. pracovníkov, čo radi pracujú medzi ľuďmi - spraviť v knižnici priestor na "cowork" - v podstate priestor na spoločnú diskusiu, whiteboard. Asi by to vyzeralo ako zasadačka, ale ak by mala knižnica dosť miesta - možno by to šlo.
+2. Myslím, že v Holandsku majú v knižnici vyhradený priestor na knowledge 
 
 #### 3. Aká je rola knihovníctva v danej knižnici a akým spôsobom pomáha používateľom s ich potrebami? (otázka je relevantná vzhľadom na veľkosť a typ knižnice)
 
