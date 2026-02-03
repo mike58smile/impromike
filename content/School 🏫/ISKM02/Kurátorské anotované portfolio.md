@@ -1,13 +1,16 @@
 ---
-{"publish":true,"created":"2026-01-30T22:42:52.000+01:00","modified":"2026-02-03T21:12:16.512+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-30T22:42:52.000+01:00","modified":"2026-02-03T21:13:18.393+01:00","cssclasses":""}
 ---
 
 ---
 
 # Delegovanie ľudskosti: Medzi pohodlím a stratou kontroly
 **Autor:** Michal Miškolci
+
 **Predmet:** [[School 🏫/ISKM02/ISKM02\|ISKM02 - Design informačních služeb, rozhraní a interakcí]] 
+
 **Škola:** Kabinet informačních studií a knihovnictví (KISK), FF MU  
+
 **Dátum:** Február 2025
 # Úvod
 Sľub umelej inteligencie je zvodný: život bez námahy, optimalizácia času a eliminácia nudných či ťažkých úloh. Toto portfólio však skúma odvrátenú stranu tohto sľubu. Cez optiku piatich dizajnových artefaktov sa pýtame: **Čoho sa vzdávame, keď delegujeme naše činnosti na stroje?**
