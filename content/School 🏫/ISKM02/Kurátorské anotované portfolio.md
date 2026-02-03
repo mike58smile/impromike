@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-30T22:42:52.000+01:00","modified":"2026-02-03T21:09:18.026+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-30T22:42:52.000+01:00","modified":"2026-02-03T21:12:16.512+01:00","cssclasses":""}
 ---
 
 ---
@@ -19,7 +19,7 @@ Toto portfólio nečítajte ako katalóg aplikácií, ale ako príbeh o posune �
 # Artefakty
 ## 1. Replika (Delegovanie intimity) [^1] 
 ![[2 - Sources/image-498.png]]
-[^1]
+
 **[Replika](https://replika.com/)** napodobňuje medziľudskú blízkosť tým, že ponúka vzťah oslobodený od rizika a námahy, ktoré sú vždyprítomné v reálnych medziľudských vzťahoch.
 Aplikácia poskytuje 24/7 „priateľa“, ktorý je nekritický a naprogramovaný na súhlas, čím simuluje puto bez nutnosti reciprocity.  
 Pravidelná interakcia s nekritickým systémom môže viesť k oslabeniu schopnosti zvládať konfrontáciu, kritiku alebo odmietnutie v reálnom svete. Používateľ stráca „sociálny tréning“ potrebný na navigáciu v konfliktoch.
@@ -28,10 +28,9 @@ Zatiaľ čo Replika odstraňuje trenie v sociálnej sfére, **Ecoverse** ho z�
 
 ## 2. Ecoverse & Polyphonic (Delegovanie etiky) [^3]
 ![[2 - Sources/image-501.png]]
-[^3]
+
 
 ![[2 - Sources/image-502.png]]
-[^3]
 
 **Ecoverse** je AI asistent simulujúci sociálneho aktéra podnecujúceho k všímavosti a usmerňujúcej prítomnosti. Uvedomuje si svoju uhlíkovú stopu, spotrebu energie a poskytuje obmedzený počet interakcií s človekom.
 **Polymorphic** je AI asistent s viacerými identitami, charaktermi a ideológiami, ktorý mení hlas (mužský/ženský) podľa témy.
@@ -52,9 +51,9 @@ Ide o praktického pomocníka, ktorý môže priamo ovládať a vytvárať aplik
 Fakt, že tento systém vie fungovať samostatne 24/7 bez zásahu človeka umožňuje byť veľmi produktívny - vytvára to obrovské pohodlie za cenu straty úplnej kontroly a zodpovednosti. Veľkou spotrebou má negatívny dopad na prostredie, dáva veľkú moc užívateľovi, čiastočne môže brať moc korporátom (s predpokladom, že systém je viac imúnny voči reklamám ako človek). Paradoxom je súkromie užívateľa - síce dáta nie sú nikde posielané, sám OpenClaw asistent pracuje na internete s dátami užívateľa - na pozadí je obava nesprávneho zaobchádzania s dátami (ako napr. zdieľanie súkromných dát na soc. sieti pre AI agentov - [MoltBook](https://www.moltbook.com/))
 
 
-## 4. Vibewriter (Delegovanie nuansy)
+## 4. Vibewriter (Delegovanie nuansy) [^5]
 ![[2 - Sources/image-505.png]]
-[^5]
+
 
 [Vibewriter](https://vibewriter.nearfuturelaboratory.com/) preformulováva rolu AI z nástroja na automatizáciu, na nástroj pre rozvoj kreativity pri písaní a „kognitívny tréning“. Systém kooperuje namiesto operuje.
 
