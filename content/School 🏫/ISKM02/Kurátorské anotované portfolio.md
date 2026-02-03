@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-30T22:42:52.000+01:00","modified":"2026-02-03T21:15:44.508+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-30T22:42:52.000+01:00","modified":"2026-02-03T21:19:09.620+01:00","cssclasses":""}
 ---
 
 ---
@@ -46,7 +46,7 @@ Zatiaľ, čo konverzačné asistenty sú čím ďalej používanejšie, využiti
 
 ## 3. Openclaw (Odmietnutie delegovania kontroly) [^4]
 ![[2 - Sources/image-504.png]]
-[^4]
+
 **[OpenClaw](https://openclaw.ai/)** rozširuje schopnosti konverzačných asistentov, čím drasticky mení spôsob akým človek interaguje nielen s PC, ale samotným svetom.
 
 Ide o praktického pomocníka, ktorý môže priamo ovládať a vytvárať aplikácie v PC namiesto samotného užívateľa. Personalizovanou pamäťou (dáta ostávajú súkromné) vytvára asistenta, ktorý koná, nie len radí.
@@ -68,6 +68,7 @@ Kým Vibewriter vytvára nátlak a posilňuje schopnosti užívateľa, **helpSt
 
 ## 5. HelpStudy (Delegovanie kognície) [^7]
 ![[2 - Sources/image-507.png]]
+
 **[HelpStudy](https://helpstudy.onrender.com/)** je systém uľahčujúci prístup k informáciám a urýchľujúci proces učenia za pomoci AI.
 
 Aplikácia umožňuje nahrať text alebo PDF, či vygenerovať odborný popis určitej témy a užívateľ môže klávesovými skratkami vytvárať anotácie textu s AI vysvetleniami, sumarizovaním, či prekladom. Podľa štúdie [^6] AI zlepšuje akademický výkon v porovnaní s tradičnými metódami.
