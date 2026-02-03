@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-30T22:42:52.000+01:00","modified":"2026-02-03T21:13:18.393+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-30T22:42:52.000+01:00","modified":"2026-02-03T21:15:44.508+01:00","cssclasses":""}
 ---
 
 ---
@@ -35,8 +35,8 @@ Zatiaľ čo Replika odstraňuje trenie v sociálnej sfére, **Ecoverse** ho z�
 
 ![[2 - Sources/image-502.png]]
 
-**Ecoverse** je AI asistent simulujúci sociálneho aktéra podnecujúceho k všímavosti a usmerňujúcej prítomnosti. Uvedomuje si svoju uhlíkovú stopu, spotrebu energie a poskytuje obmedzený počet interakcií s človekom.
-**Polymorphic** je AI asistent s viacerými identitami, charaktermi a ideológiami, ktorý mení hlas (mužský/ženský) podľa témy.
+**[Ecoverse](https://designawards.core77.com/speculative-design/127036/Reimagine-Domestic-Voice-Assistants-Speculating-about-future-scenarios)** je AI asistent simulujúci sociálneho aktéra podnecujúceho k všímavosti a usmerňujúcej prítomnosti. Uvedomuje si svoju uhlíkovú stopu, spotrebu energie a poskytuje obmedzený počet interakcií s človekom.
+**[Polymorphic](https://designawards.core77.com/speculative-design/127036/Reimagine-Domestic-Voice-Assistants-Speculating-about-future-scenarios)** je AI asistent s viacerými identitami, charaktermi a ideológiami, ktorý mení hlas (mužský/ženský) podľa témy.
 
 Až 3/4 najpopulárnejších asistentov sú predvolene nastavené ako ženské submisívne postavy (smart-wives) - simulujú vykonávanie „ženskej práce“ bez emócií a stresu. Sú neustále dostupné (24/7) a ich humanizácia (antropomorfizmus) buduje v užívateľoch umelú dôveru, čo firmám uľahčuje zber a predaj intímnych údajov tretím stranám.
 
@@ -47,7 +47,7 @@ Zatiaľ, čo konverzačné asistenty sú čím ďalej používanejšie, využiti
 ## 3. Openclaw (Odmietnutie delegovania kontroly) [^4]
 ![[2 - Sources/image-504.png]]
 [^4]
-[**OpenClaw**](https://openclaw.ai/) rozširuje schopnosti konverzačných asistentov, čím drasticky mení spôsob akým človek interaguje nielen s PC, ale samotným svetom.
+**[OpenClaw](https://openclaw.ai/)** rozširuje schopnosti konverzačných asistentov, čím drasticky mení spôsob akým človek interaguje nielen s PC, ale samotným svetom.
 
 Ide o praktického pomocníka, ktorý môže priamo ovládať a vytvárať aplikácie v PC namiesto samotného užívateľa. Personalizovanou pamäťou (dáta ostávajú súkromné) vytvára asistenta, ktorý koná, nie len radí.
 
@@ -58,7 +58,7 @@ Fakt, že tento systém vie fungovať samostatne 24/7 bez zásahu človeka umož
 ![[2 - Sources/image-505.png]]
 
 
-[Vibewriter](https://vibewriter.nearfuturelaboratory.com/) preformulováva rolu AI z nástroja na automatizáciu, na nástroj pre rozvoj kreativity pri písaní a „kognitívny tréning“. Systém kooperuje namiesto operuje.
+**[Vibewriter](https://vibewriter.nearfuturelaboratory.com/)** preformulováva rolu AI z nástroja na automatizáciu, na nástroj pre rozvoj kreativity pri písaní a „kognitívny tréning“. Systém kooperuje namiesto operuje.
 
 Aplikácia opúšťa bežný chatovací model a zavádza herný mechanizmus („trading 4's“), kde sa používateľ a AI striedajú pod časovým tlakom. AI tu neslúži na to, aby písala _za_ človeka, ale aby ho _vyprovokovala_ k rýchlej reakcii, zabránila nadmernému premýšľaniu.
 
@@ -68,7 +68,7 @@ Kým Vibewriter vytvára nátlak a posilňuje schopnosti užívateľa, **helpSt
 
 ## 5. HelpStudy (Delegovanie kognície) [^7]
 ![[2 - Sources/image-507.png]]
-[**HelpStudy**](https://helpstudy.onrender.com/) je systém uľahčujúci prístup k informáciám a urýchľujúci proces učenia za pomoci AI.
+**[HelpStudy](https://helpstudy.onrender.com/)** je systém uľahčujúci prístup k informáciám a urýchľujúci proces učenia za pomoci AI.
 
 Aplikácia umožňuje nahrať text alebo PDF, či vygenerovať odborný popis určitej témy a užívateľ môže klávesovými skratkami vytvárať anotácie textu s AI vysvetleniami, sumarizovaním, či prekladom. Podľa štúdie [^6] AI zlepšuje akademický výkon v porovnaní s tradičnými metódami.
 
