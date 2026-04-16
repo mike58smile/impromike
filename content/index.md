@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"About me","created":"2025-10-29T18:06:48.000+01:00","modified":"2026-02-19T17:14:42.673+01:00","cssclasses":""}
+{"publish":true,"title":"About me","created":"2025-10-29T18:06:48.000+01:00","modified":"2026-04-16T19:09:21.699+02:00","cssclasses":""}
 ---
 
 Hiiii there 👋
@@ -11,7 +11,7 @@ I have a huuuge passion in creating, improvising, crafting, art making and learn
 I also privately teach Math ♾️, Physics 🧲, Ukulele 🎸, but I'm opened to teach everything I have ever learned.
 
 I currently work on these projects:
-- **[Studario](https://www.mentimeter.com/app/presentation/albqhc3i7v7bupurxprnkoogn71ao32a/edit?question=47z29fjhhnd9)**
+- **[Studario](https://studar.io)** - Centralized collaborative student hub with deadlines, lecture notes, student info, and events in one place with Google and Apple calendar integrations. [Research](https://www.mentimeter.com/app/presentation/albqhc3i7v7bupurxprnkoogn71ao32a/edit?question=47z29fjhhnd9)
 - **[HelpStudy](https://helpstudy.onrender.com/)** - System to help with deep studying and understanding any academic text by creating annotations in text with AI explanations, summaries, translations.    
 - **[LinkMory](https://www.linkmory.me/)** - Universal business card solutions for networking event organizers to enhance the networking experience for participants.
 - [**PianoArt**](https://pianoart.onrender.com/) - Software that transforms piano performance into real-time visual art, creating immersive audiovisual experiences that respond dynamically to every note and melody.
