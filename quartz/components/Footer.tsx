@@ -15,7 +15,7 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <p>
           © {year}{" "}
-          <a href="https://www.linkedin.com/in/michal-mi%C5%A1kolci-86418626a/">Michal Miškolci</a>
+          <a href="https://www.linkmory.me/id/w6tlrc5iv52ynht">Michal Miškolci</a>
         </p>
         {linkEntries.length > 0 && (
           <ul>
