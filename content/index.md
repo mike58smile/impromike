@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"About me","created":"2025-10-29T18:06:48.000+01:00","modified":"2026-05-25T20:53:08.023+02:00","cssclasses":""}
+{"publish":true,"title":"About me","created":"2025-10-29T18:06:48.000+01:00","modified":"2026-05-25T22:02:59.754+02:00","cssclasses":""}
 ---
 
 Hiiii there 👋
@@ -15,7 +15,7 @@ I currently work on these projects:
 - **[HelpStudy](helpstudy.mimiskolci.workers.dev)** - System to help with deep studying and understanding any academic text by creating annotations in text with AI explanations, summaries, translations.    
 - **[Linkmory](https://www.linkmory.me/)** - Universal business card solutions for networking event organizers to enhance the networking experience for participants. [Pitch deck](https://www.canva.com/design/DAGTlq0xHzE/uVQSfoKvyjBxZzWZt65V0A/view?utm_content=DAGTlq0xHzE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - [**PianoArt**](https://pianoart.onrender.com/) - Software that transforms piano performance into real-time visual art, creating immersive audiovisual experiences that respond dynamically to every note and melody.
-- **[Echoes of the Void](https://story-game-j6je.onrender.com/?scenario=princess&lang=en&difficulty=CHALLENGING&charLimit=85&entropy=3&timePressure=10&charGift=0&narration=true&sfx=true&tts=inworld&buttonStart=true)** - AI narrative atmospheric game.
+- **[Echoes of the Void](https://story-game.mimiskolci.workers.dev/?scenario=princess&lang=en&difficulty=CHALLENGING&charLimit=85&entropy=3&timePressure=10&charGift=0&narration=true&sfx=true&tts=inworld&buttonStart=true)** - AI narrative atmospheric game.
 - [**Electronics Inventory**](https://electronics-inventory-ai-710862069508.us-west1.run.app/) - Digital storage for electronic components offering AI identification and classification to categories. Keeps track of what components I have, where, and what for.   
 
 Past Projects:
