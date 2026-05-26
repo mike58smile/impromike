@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"About me","created":"2025-10-29T18:06:48.000+01:00","modified":"2026-05-25T22:02:59.754+02:00","cssclasses":""}
+{"publish":true,"title":"About me","created":"2025-10-29T18:06:48.000+01:00","modified":"2026-05-26T19:47:46.127+02:00","cssclasses":""}
 ---
 
 Hiiii there 👋
@@ -12,7 +12,7 @@ I also privately teach Math ♾️, Physics 🧲, Ukulele 🎸, but I'm opened t
 
 I currently work on these projects:
 - **[Studario](https://studar.io)** - Centralized collaborative student hub with deadlines, lecture notes, student info, and events in one place with Google and Apple calendar integrations. [Research](https://www.mentimeter.com/app/presentation/albqhc3i7v7bupurxprnkoogn71ao32a/edit?question=47z29fjhhnd9)
-- **[HelpStudy](helpstudy.mimiskolci.workers.dev)** - System to help with deep studying and understanding any academic text by creating annotations in text with AI explanations, summaries, translations.    
+- **[HelpStudy](https://helpstudy.mimiskolci.workers.dev)** - System to help with deep studying and understanding any academic text by creating annotations in text with AI explanations, summaries, translations.    
 - **[Linkmory](https://www.linkmory.me/)** - Universal business card solutions for networking event organizers to enhance the networking experience for participants. [Pitch deck](https://www.canva.com/design/DAGTlq0xHzE/uVQSfoKvyjBxZzWZt65V0A/view?utm_content=DAGTlq0xHzE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - [**PianoArt**](https://pianoart.onrender.com/) - Software that transforms piano performance into real-time visual art, creating immersive audiovisual experiences that respond dynamically to every note and melody.
 - **[Echoes of the Void](https://story-game.mimiskolci.workers.dev/?scenario=princess&lang=en&difficulty=CHALLENGING&charLimit=85&entropy=3&timePressure=10&charGift=0&narration=true&sfx=true&tts=inworld&buttonStart=true)** - AI narrative atmospheric game.
