@@ -1,8 +1,10 @@
 ---
-{"publish":true,"title":"About me","created":"2025-10-29T18:06:48.000+01:00","modified":"2026-05-26T19:47:46.127+02:00","cssclasses":""}
+{"publish":true,"title":"About me","created":"2025-10-29T18:06:48.000+01:00","modified":"2026-06-05T13:39:08.769+02:00","cssclasses":""}
 ---
 
 Hiiii there 👋
+
+this is my presentation for today's [conference](https://canva.link/ujplnc97444vvka), [meet](https://meet.google.com/wun-ijkd-nqf) >.<
 
 my name is Michal Miškolci, I'm a master's student of [Cybernetics, Control and Measurements 🤖](https://www.vut.cz/en/students/programmes/programme/9479) and [Information science student 📚](https://kisk-phil-muni-cz.translate.goog/uchazeci/magisterske-studium?_x_tr_sl=cs&_x_tr_tl=en&_x_tr_hl=en-US) in Brno. You can find my contacts [here 🖐](https://www.linkmory.me/id/w6tlrc5iv52ynht)
 
