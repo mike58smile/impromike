@@ -1,14 +1,18 @@
 ---
-{"publish":true,"title":"About me","created":"2025-10-29T18:06:48.000+01:00","modified":"2026-07-15T20:36:07.224+02:00","cssclasses":""}
+{"publish":true,"title":"About me","created":"2025-10-29T18:06:48.000+01:00","modified":"2026-07-15T20:37:13.842+02:00","cssclasses":""}
 ---
 
 Hiiii there 👋
 ..
 my name is Michal Miškolci
 ....
-this is kinda the depiction of me...
+### this is kinda the depiction of me...
 
-![[2 - Sources/image-665.webp|This is kinda the depiction of me...]]
+![[2 - Sources/image-665.webp]]
+
+
+
+
 
 I graduated from [BUT FEEC](https://www.fekt.vut.cz/en/home) with a Master's degree in [Cybernetics, Control and Measurements 🤖](https://www.vut.cz/en/students/programmes/programme/9479) and I am currently studying [Information science 📚](https://kisk-phil-muni-cz.translate.goog/uchazeci/magisterske-studium?_x_tr_sl=cs&_x_tr_tl=en&_x_tr_hl=en-US) in Brno. You can find my contacts [here 🖐](https://linktr.ee/impromike)
 
