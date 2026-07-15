@@ -1,10 +1,12 @@
 ---
-{"publish":true,"title":"About me","created":"2025-10-29T18:06:48.000+01:00","modified":"2026-07-15T20:30:46.300+02:00","cssclasses":""}
+{"publish":true,"title":"About me","created":"2025-10-29T18:06:48.000+01:00","modified":"2026-07-15T20:36:07.224+02:00","cssclasses":""}
 ---
 
 Hiiii there 👋
 ..
 my name is Michal Miškolci
+....
+this is kinda the depiction of me...
 
 ![[2 - Sources/image-665.webp|This is kinda the depiction of me...]]
 
