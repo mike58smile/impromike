@@ -1,19 +1,12 @@
 ---
-{"publish":true,"title":"About me","created":"2025-10-29T18:06:48.000+01:00","modified":"2026-07-16T15:38:37.345+02:00","cssclasses":""}
+{"publish":true,"title":"About me","created":"2025-10-29T18:06:48.000+01:00","modified":"2026-07-20T10:18:28.073+02:00","cssclasses":""}
 ---
 
 Hiiii there 👋
 ..
+
 my name is Michal Miškolci
-
-....
-## this is kinda the depiction of me...
-
-![[2 - Sources/image-665.webp]]
-
-
-
-
+...
 
 I graduated from [BUT FEEC](https://www.fekt.vut.cz/en/home) with a Master's degree in [Cybernetics, Control and Measurements 🤖](https://www.vut.cz/en/students/programmes/programme/9479) and I am currently studying [Information science 📚](https://kisk-phil-muni-cz.translate.goog/uchazeci/magisterske-studium?_x_tr_sl=cs&_x_tr_tl=en&_x_tr_hl=en-US) in Brno. You can find my contacts [here 🖐](https://linktr.ee/impromike)
 
@@ -36,6 +29,11 @@ Stopped Projects:
 - [**Outter**](https://mike58smile.github.io/outter/) - Next level adventure outside game with computer games elements and gadgets.
 - [**LinkMory**](https://mike58smile.github.io/linkmory_creative/) - NFC solutions offering quick access to hard-to-find digital content such as photos, videos, websites and memories.
 - **[Linkmory](https://www.linkmory.me/)** - Universal business card solutions for networking event organizers to enhance the networking experience for participants. [Pitch deck](https://www.canva.com/design/DAGTlq0xHzE/uVQSfoKvyjBxZzWZt65V0A/view?utm_content=DAGTlq0xHzE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+....
+## this is kinda the depiction of me...
+
+![[2 - Sources/image-665.webp]]
 
 Dump links:
 -  [Short Conference](https://canva.link/ujplnc97444vvka)
